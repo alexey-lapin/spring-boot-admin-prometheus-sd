@@ -8,7 +8,7 @@ spring-boot-v3 = "3.4.1"
 spotless-plugin = { module = "com.diffplug.spotless:spotless-plugin-gradle", version = "7.0.2" }
 spring-boot-v2-bom = { module = "org.springframework.boot:spring-boot-dependencies", version.ref = "spring-boot-v2" }
 foojay-resolver-plugin = { module = "org.gradle.toolchains:foojay-resolver", version = "0.9.0" }
-release-plugin = { group = "pl.allegro.tech.build", name = "axion-release-plugin", version = "1.18.16" }
+release-plugin = { group = "pl.allegro.tech.build", name = "axion-release-plugin", version = "1.18.17" }
 
 [plugins]
 graalvm = {id = "org.graalvm.buildtools.native", version = "0.10.5"}
